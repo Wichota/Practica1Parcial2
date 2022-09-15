@@ -15,3 +15,7 @@ Fernando García: Aprender los conceptos elementales de la programación en los 
 ## Proyecto Semestral: Desarrollo de Aplicaciones Interactivas
 
 Rodrigo saco: Aplicar todos los conocimientos adquiridos para lograr realizar un videojuego como proyecto en el semestre.
+
+## Sistemas operativos y redes.
+
+Jonathan Mircha: Aprender y entender el funcionamiento de los sistemas de comunicación y las redes para poder utilizarlas a nuestro favor principalmente en prácticas en equipo.
