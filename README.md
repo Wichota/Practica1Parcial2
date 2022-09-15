@@ -7,3 +7,7 @@ Eduardo Guerrero: En esta materia aprendemos las técnicas, elementos y artefact
 ## Principios de Composición y diseño
 
 Roberto Melo Ortiz: Aprendemos los principios, técnicas y campos de aplicación en el diseño gráfico para poder utilizarlo mediante las herramientas adecuadas y así crear un contenido visual para mostrar un mensaje o una idea.
+
+## Lenguajes interpretados.
+
+Fernando García: Aprender los conceptos elementales de la programación en los lenguajes C y C++.
