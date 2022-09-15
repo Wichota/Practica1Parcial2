@@ -11,3 +11,7 @@ Roberto Melo Ortiz: Aprendemos los principios, técnicas y campos de aplicación
 ## Lenguajes interpretados.
 
 Fernando García: Aprender los conceptos elementales de la programación en los lenguajes C y C++.
+
+## Proyecto Semestral: Desarrollo de Aplicaciones Interactivas
+
+Rodrigo saco: Aplicar todos los conocimientos adquiridos para lograr realizar un videojuego como proyecto en el semestre.
